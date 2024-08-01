@@ -138,7 +138,7 @@ function App() {
             <a href="#"><i className="fab fa-twitter"></i></a>
             <a href="#"><i className="fab fa-instagram"></i></a>
           </div>
-          <p className="copyright">© 2024 ABC Company. All Rights Reserved.</p>
+          <p className="copyright">© 2024 KrishnanKaushik. All Rights Reserved.</p>
         </footer>
       </div>} />
       </Routes>
